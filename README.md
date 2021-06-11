@@ -7,3 +7,14 @@ Simple analysis from the 2019 Facebook data dump (more specifically Portugal). W
 **Warning** Complete garbage spaghetti code
 
 ![Sex Metrics](sex.png)
+
+![Sex Metrics](name.png)
+
+![Sex Metrics](surname.png)
+
+![Sex Metrics](location.png)
+
+![Sex Metrics](job.png)
+
+![Sex Metrics](phone.png)
+
