@@ -1,8 +1,6 @@
 # Facebook-Leak-Data-Metrics
 
-Just learning stuff.
-
-Simple analysis from the 2019 Facebook data dump (more specifically Portugal). Will not share the actual data here for security reasons.
+Analysis of the 2019 Facebook data dump (more specifically Portugal). Will not share the actual data here for security and legal reasons.
 
 **Warning** Complete garbage spaghetti code
 
@@ -17,4 +15,3 @@ Simple analysis from the 2019 Facebook data dump (more specifically Portugal). W
 ![Sex Metrics](job.png)
 
 ![Sex Metrics](phone.png)
-
