@@ -1,6 +1,6 @@
 # Facebook-Leak-Data-Metrics
 
-Analysis of the 2019 Facebook data dump (more specifically Portugal). Will not share the actual data here for security and legal reasons.
+Visualization of the 2019 Facebook data dump (more specifically Portugal). Will not share the actual data here for security and legal reasons.
 I used matplotlib and numpy.
 
 ![Sex Metrics](sex.png)
