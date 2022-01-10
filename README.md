@@ -5,12 +5,12 @@ I used matplotlib and numpy.
 
 ![Sex Metrics](sex.png)
 
-![Sex Metrics](name.png)
+![Name Metrics](name.png)
 
-![Sex Metrics](surname.png)
+![Surname Metrics](surname.png)
 
-![Sex Metrics](location.png)
+![Location Metrics](location.png)
 
-![Sex Metrics](job.png)
+![Job Metrics](job.png)
 
-![Sex Metrics](phone.png)
+![Phone Metrics](phone.png)
